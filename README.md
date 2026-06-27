@@ -47,7 +47,7 @@
   <tr>
     <td width="58%" valign="top">
       <h3>Another World</h3>
-      <p>Port of the cinematic adventure Another World (Out of This World) for the Atari XL/XE.</p>
+      <p>Port of the cinematic adventure Another World for the Atari XL/XE.</p>
       <p><sub>demo · WIP</sub></p>
     </td>
     <td width="42%" valign="top">
