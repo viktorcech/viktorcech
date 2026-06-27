@@ -81,3 +81,9 @@
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/w1kk">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="44" alt="Buy Me a Coffee">
+  </a>
+</p>
