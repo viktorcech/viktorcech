@@ -45,15 +45,17 @@
     </td>
   </tr>
 
-  <!-- Another World VBXE (demo) -->
+  <!-- Another World VBXE -->
   <tr>
     <td width="58%" valign="top">
       <h3>Another World VBXE</h3>
       <p>Port of the cinematic adventure Another World for the Atari XL/XE.</p>
-      <p><sub>demo · WIP</sub></p>
+      <p><a href="https://github.com/viktorcech/another-world-vbxe">github.com/viktorcech/another-world-vbxe</a></p>
     </td>
     <td width="42%" valign="top">
-      <img src="assets/another-world.png" width="100%" alt="Another World VBXE">
+      <a href="https://github.com/viktorcech/another-world-vbxe">
+        <img src="assets/another-world.png" width="100%" alt="Another World VBXE">
+      </a>
     </td>
   </tr>
 
