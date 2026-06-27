@@ -31,15 +31,17 @@
     </td>
   </tr>
 
-  <!-- Wolfenstein 3D (demo) -->
+  <!-- Wolfenstein 3D -->
   <tr>
     <td width="58%" valign="top">
       <h3>Wolfenstein 3D</h3>
       <p>Raycasting FPS in the style of Wolfenstein 3D for the Atari XL/XE (VBXE).</p>
-      <p><sub>demo · WIP</sub></p>
+      <p><a href="https://github.com/viktorcech/wolfenstein3d-vbxe">github.com/viktorcech/wolfenstein3d-vbxe</a></p>
     </td>
     <td width="42%" valign="top">
-      <img src="assets/wolf3d.png" width="100%" alt="Wolfenstein 3D">
+      <a href="https://github.com/viktorcech/wolfenstein3d-vbxe">
+        <img src="assets/wolf3d.png" width="100%" alt="Wolfenstein 3D">
+      </a>
     </td>
   </tr>
 
