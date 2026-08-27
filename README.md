@@ -59,6 +59,21 @@
     </td>
   </tr>
 
+  <!-- QROS Loader -->
+  <tr>
+    <td width="58%" valign="top">
+      <h3>QROS Loader</h3>
+      <p>Turbo tape loader for the QROS/EMO system on the Atari XL/XE. 6502 assembly — streams
+         the tape through POKEY and parses the XEX format on the fly.</p>
+      <p><a href="https://github.com/viktorcech/qros-loader">github.com/viktorcech/qros-loader</a></p>
+    </td>
+    <td width="42%" valign="top">
+      <a href="https://github.com/viktorcech/qros-loader">
+        <img src="assets/qros.png" width="100%" alt="QROS Loader">
+      </a>
+    </td>
+  </tr>
+
   <!-- UFO: Enemy Unknown VBXE (demo) -->
   <tr>
     <td width="58%" valign="top">
