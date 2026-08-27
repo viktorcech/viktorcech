@@ -74,6 +74,21 @@
     </td>
   </tr>
 
+  <!-- QROS Generator -->
+  <tr>
+    <td width="58%" valign="top">
+      <h3>QROS Generator</h3>
+      <p>Tape image generator for the QROS/EMO turbo system — converts Atari XEX/COM/OBX
+         executables into CAS and WAV tapes. Python, GUI and command line.</p>
+      <p><a href="https://github.com/viktorcech/qros-generator">github.com/viktorcech/qros-generator</a></p>
+    </td>
+    <td width="42%" valign="top">
+      <a href="https://github.com/viktorcech/qros-generator">
+        <img src="assets/qros-generator.png" width="100%" alt="QROS Generator">
+      </a>
+    </td>
+  </tr>
+
   <!-- UFO: Enemy Unknown VBXE (demo) -->
   <tr>
     <td width="58%" valign="top">
