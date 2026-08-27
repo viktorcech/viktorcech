@@ -101,17 +101,6 @@
     </td>
   </tr>
 
-  <!-- Doom Engine Test VBXE (demo) -->
-  <tr>
-    <td width="58%" valign="top">
-      <h3>Doom Engine Test VBXE</h3>
-      <p>Raycasting 3D engine test (Doom-style) for the Atari XL/XE — FPS benchmark.</p>
-      <p><sub>demo · WIP</sub></p>
-    </td>
-    <td width="42%" valign="top">
-      <img src="assets/doom-test.png" width="100%" alt="Doom Engine Test VBXE">
-    </td>
-  </tr>
 </table>
 
 <p align="center">
