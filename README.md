@@ -1,6 +1,18 @@
 <h1>W1K — ATARI 800XE/XL, AI PROJECTS</h1>
 
 <table>
+  <!-- DOOM VBXE -->
+  <tr>
+    <td width="58%" valign="top">
+      <h3>DOOM VBXE</h3>
+      <p>DOOM for the Atari XL/XE — a real BSP renderer with textured walls, sprites and monsters,
+         all three episodes streamed off the disk. Requires VBXE and a Rapidus accelerator.</p>
+      <p><a href="https://github.com/viktorcech/doom-vbxe">github.com/viktorcech/doom-vbxe</a></p>
+    </td>
+    <td width="42%" valign="top">
+    </td>
+  </tr>
+
   <!-- Cactus Browser VBXE -->
   <tr>
     <td width="58%" valign="top">
