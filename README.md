@@ -10,6 +10,9 @@
       <p><a href="https://github.com/viktorcech/doom-vbxe">github.com/viktorcech/doom-vbxe</a></p>
     </td>
     <td width="42%" valign="top">
+      <a href="https://github.com/viktorcech/doom-vbxe">
+        <img src="assets/doom-vbxe.png" width="100%" alt="DOOM VBXE">
+      </a>
     </td>
   </tr>
 
