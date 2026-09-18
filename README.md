@@ -5,8 +5,7 @@
   <tr>
     <td width="58%" valign="top">
       <h3>DOOM VBXE</h3>
-      <p>DOOM for the Atari XL/XE — a real BSP renderer with textured walls, sprites and monsters,
-         all three episodes streamed off the disk. Requires VBXE and a Rapidus accelerator.</p>
+      <p>DOOM for the Atari XL/XE — Requires VBXE and 65816.</p>
       <p><a href="https://github.com/viktorcech/doom-vbxe">github.com/viktorcech/doom-vbxe</a></p>
     </td>
     <td width="42%" valign="top">
@@ -108,7 +107,7 @@
   <tr>
     <td width="58%" valign="top">
       <h3>UFO: Enemy Unknown VBXE</h3>
-      <p>Geoscape demo in the style of UFO: Enemy Unknown (X-COM) — globe and base management on the Atari XL/XE.</p>
+      <p>Port of UFO: Enemy Unknown (X-COM) — for Atari XL/XE. Needs VBXE</p>
       <p><sub>demo · WIP</sub></p>
     </td>
     <td width="42%" valign="top">
@@ -124,7 +123,7 @@
       <p><sub>demo · WIP</sub></p>
     </td>
     <td width="42%" valign="top">
-      <img src="assets/terep2.png" width="100%" alt="UFO: Enemy Unknown VBXE">
+      <img src="assets/terep2.png" width="100%" alt="Terep 2">
     </td>
   </tr>
 
