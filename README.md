@@ -116,6 +116,18 @@
     </td>
   </tr>
 
+    <!-- Terep (demo) -->
+  <tr>
+    <td width="58%" valign="top">
+      <h3>Terep 2 (a.k.a. Deformers)</h3>
+      <p>Little port of Terep 2 (a.k.a. Deformers) for ATARI XE/XL Needs VBXE and 65816.</p>
+      <p><sub>demo · WIP</sub></p>
+    </td>
+    <td width="42%" valign="top">
+      <img src="assets/terep2.png" width="100%" alt="UFO: Enemy Unknown VBXE">
+    </td>
+  </tr>
+
 </table>
 
 <p align="center">
