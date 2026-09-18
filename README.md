@@ -1,6 +1,19 @@
 <h1>W1K — ATARI 800XE/XL, AI PROJECTS</h1>
 
 <table>
+
+  <tr>
+    <td width="58%" valign="top">
+      <h3>Terep 2 (a.k.a. Deformers)</h3>
+      <p>Little port of Terep 2 (a.k.a. Deformers) for ATARI XE/XL Needs VBXE and 65816.</p>
+      <p><sub>demo · WIP</sub></p>
+    </td>
+    <td width="42%" valign="top">
+      <img src="assets/terep2.png" width="100%" alt="Terep 2">
+    </td>
+  </tr>
+
+  
   <!-- DOOM VBXE -->
   <tr>
     <td width="58%" valign="top">
@@ -15,20 +28,7 @@
     </td>
   </tr>
 
-  <!-- Cactus Browser VBXE -->
-  <tr>
-    <td width="58%" valign="top">
-      <h3>Cactus Browser VBXE</h3>
-      <p>Web browser for the Atari XL/XE — surf the internet right on an 8-bit machine.
-         Requires VBXE, FujiNet and an ST mouse (port 2).</p>
-      <p><a href="https://github.com/viktorcech/cactus-browser">github.com/viktorcech/cactus-browser</a></p>
-    </td>
-    <td width="42%" valign="top">
-      <a href="https://github.com/viktorcech/cactus-browser">
-        <img src="assets/cactus.png" width="100%" alt="Cactus Browser VBXE">
-      </a>
-    </td>
-  </tr>
+  
 
   <!-- Doom 2D VBXE -->
   <tr>
@@ -88,16 +88,7 @@
   </tr>
 
 
-  <tr>
-    <td width="58%" valign="top">
-      <h3>Terep 2 (a.k.a. Deformers)</h3>
-      <p>Little port of Terep 2 (a.k.a. Deformers) for ATARI XE/XL Needs VBXE and 65816.</p>
-      <p><sub>demo · WIP</sub></p>
-    </td>
-    <td width="42%" valign="top">
-      <img src="assets/terep2.png" width="100%" alt="Terep 2">
-    </td>
-  </tr>
+  
 
    <!-- Another World VBXE -->
   <tr>
@@ -123,6 +114,21 @@
     <td width="42%" valign="top">
       <a href="https://github.com/viktorcech/wolfenstein3d-vbxe">
         <img src="assets/wolf3d.png" width="100%" alt="Wolfenstein 3D VBXE">
+      </a>
+    </td>
+  </tr>
+
+  <!-- Cactus Browser VBXE -->
+  <tr>
+    <td width="58%" valign="top">
+      <h3>Cactus Browser VBXE</h3>
+      <p>Web browser for the Atari XL/XE — surf the internet right on an 8-bit machine.
+         Requires VBXE, FujiNet and an ST mouse (port 2).</p>
+      <p><a href="https://github.com/viktorcech/cactus-browser">github.com/viktorcech/cactus-browser</a></p>
+    </td>
+    <td width="42%" valign="top">
+      <a href="https://github.com/viktorcech/cactus-browser">
+        <img src="assets/cactus.png" width="100%" alt="Cactus Browser VBXE">
       </a>
     </td>
   </tr>
