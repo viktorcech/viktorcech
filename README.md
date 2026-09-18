@@ -115,7 +115,7 @@
     </td>
   </tr>
 
-    <!-- Terep (demo) -->
+
   <tr>
     <td width="58%" valign="top">
       <h3>Terep 2 (a.k.a. Deformers)</h3>
