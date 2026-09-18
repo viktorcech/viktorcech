@@ -45,34 +45,6 @@
     </td>
   </tr>
 
-  <!-- Wolfenstein 3D VBXE -->
-  <tr>
-    <td width="58%" valign="top">
-      <h3>Wolfenstein 3D VBXE</h3>
-      <p>Raycasting FPS in the style of Wolfenstein 3D for the Atari XL/XE.</p>
-      <p><a href="https://github.com/viktorcech/wolfenstein3d-vbxe">github.com/viktorcech/wolfenstein3d-vbxe</a></p>
-    </td>
-    <td width="42%" valign="top">
-      <a href="https://github.com/viktorcech/wolfenstein3d-vbxe">
-        <img src="assets/wolf3d.png" width="100%" alt="Wolfenstein 3D VBXE">
-      </a>
-    </td>
-  </tr>
-
-  <!-- Another World VBXE -->
-  <tr>
-    <td width="58%" valign="top">
-      <h3>Another World VBXE</h3>
-      <p>Port of the cinematic adventure Another World for the Atari XL/XE.</p>
-      <p><a href="https://github.com/viktorcech/another-world-vbxe">github.com/viktorcech/another-world-vbxe</a></p>
-    </td>
-    <td width="42%" valign="top">
-      <a href="https://github.com/viktorcech/another-world-vbxe">
-        <img src="assets/another-world.png" width="100%" alt="Another World VBXE">
-      </a>
-    </td>
-  </tr>
-
   <!-- QROS Loader -->
   <tr>
     <td width="58%" valign="top">
@@ -124,6 +96,34 @@
     </td>
     <td width="42%" valign="top">
       <img src="assets/terep2.png" width="100%" alt="Terep 2">
+    </td>
+  </tr>
+
+   <!-- Another World VBXE -->
+  <tr>
+    <td width="58%" valign="top">
+      <h3>Another World VBXE</h3>
+      <p>Port of the cinematic adventure Another World for the Atari XL/XE.</p>
+      <p><a href="https://github.com/viktorcech/another-world-vbxe">github.com/viktorcech/another-world-vbxe</a></p>
+    </td>
+    <td width="42%" valign="top">
+      <a href="https://github.com/viktorcech/another-world-vbxe">
+        <img src="assets/another-world.png" width="100%" alt="Another World VBXE">
+      </a>
+    </td>
+  </tr>
+
+   <!-- Wolfenstein 3D VBXE -->
+  <tr>
+    <td width="58%" valign="top">
+      <h3>Wolfenstein 3D VBXE</h3>
+      <p>Raycasting FPS in the style of Wolfenstein 3D for the Atari XL/XE.</p>
+      <p><a href="https://github.com/viktorcech/wolfenstein3d-vbxe">github.com/viktorcech/wolfenstein3d-vbxe</a></p>
+    </td>
+    <td width="42%" valign="top">
+      <a href="https://github.com/viktorcech/wolfenstein3d-vbxe">
+        <img src="assets/wolf3d.png" width="100%" alt="Wolfenstein 3D VBXE">
+      </a>
     </td>
   </tr>
 
