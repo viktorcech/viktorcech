@@ -2,6 +2,21 @@
 
 <table>
 
+  <!-- ROBBO for PMD 85-2 -->
+  <tr>
+    <td width="58%" valign="top">
+      <h3>ROBBO for PMD 85-2</h3>
+      <p>Port ATARI XE/XL Robbo for PMD-85</p>
+      <p><a href="https://github.com/viktorcech/robbo-pmd">github.com/viktorcech/robbo-pmd</a></p>
+    </td>
+    <td width="42%" valign="top">
+      <a href="https://github.com/viktorcech/robbo-pmd">
+        <img src="assets/robbo1.png" width="49%" alt="ROBBO for PMD 85-2: title screen">
+        <img src="assets/robbo2.png" width="49%" alt="ROBBO for PMD 85-2: planet 1">
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width="58%" valign="top">
       <h3>Terep 2 (a.k.a. Deformers)</h3>
