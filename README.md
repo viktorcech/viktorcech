@@ -2,6 +2,20 @@
 
 <table>
 
+  <!-- CHLEBA -->
+  <tr>
+    <td width="58%" valign="top">
+      <h3>CHLEBA</h3>
+      <p>ATR driver for SDX 4.51</p>
+      <p><a href="https://github.com/viktorcech/chleba">github.com/viktorcech/chleba</a></p>
+    </td>
+    <td width="42%" valign="top">
+      <a href="https://github.com/viktorcech/chleba">
+        <img src="assets/chleba.png" width="100%" alt="CHLEBA: ATR driver for SDX 4.51">
+      </a>
+    </td>
+  </tr>
+
   <!-- ROBBO for PMD 85-2 -->
   <tr>
     <td width="58%" valign="top">
