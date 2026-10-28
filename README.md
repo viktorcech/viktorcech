@@ -7,10 +7,12 @@
     <td width="58%" valign="top">
       <h3>ATARI SNOOKER</h3>
       <p>Snooker for the Atari XL/XE — match, tournament and trick shots. 6502 assembly, needs VBXE.</p>
-      <p><sub>WIP</sub></p>
+      <p><a href="https://github.com/viktorcech/snookervbxe">github.com/viktorcech/snookervbxe</a></p>
     </td>
     <td width="42%" valign="top">
-      <img src="assets/snooker.png" width="100%" alt="ATARI SNOOKER: title screen">
+      <a href="https://github.com/viktorcech/snookervbxe">
+        <img src="assets/snooker.png" width="100%" alt="ATARI SNOOKER: title screen">
+      </a>
     </td>
   </tr>
 
@@ -18,12 +20,12 @@
   <tr>
     <td width="58%" valign="top">
       <h3>CHLEBA</h3>
-      <p>ATR driver for SDX 4.51</p>
+      <p>ATR disk image loader for SpartaDOS X — boots ATR images from a SIDE3 card as D1:</p>
       <p><a href="https://github.com/viktorcech/chleba">github.com/viktorcech/chleba</a></p>
     </td>
     <td width="42%" valign="top">
       <a href="https://github.com/viktorcech/chleba">
-        <img src="assets/chleba.png" width="100%" alt="CHLEBA: ATR driver for SDX 4.51">
+        <img src="assets/chleba.png" width="100%" alt="CHLEBA: ATR disk image loader for SpartaDOS X">
       </a>
     </td>
   </tr>
