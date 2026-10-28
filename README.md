@@ -20,12 +20,13 @@
   <tr>
     <td width="58%" valign="top">
       <h3>CHLEBA</h3>
-      <p>ATR disk image loader for SpartaDOS X — boots ATR images from a SIDE3 card as D1:</p>
+      <p>SpartaDOS X command for opening ATR disk images on a SIDE3 card: the image becomes drive D1:
+         (read and write, at SD card speed) and the Atari boots from it.</p>
       <p><a href="https://github.com/viktorcech/chleba">github.com/viktorcech/chleba</a></p>
     </td>
     <td width="42%" valign="top">
       <a href="https://github.com/viktorcech/chleba">
-        <img src="assets/chleba.png" width="100%" alt="CHLEBA: ATR disk image loader for SpartaDOS X">
+        <img src="assets/chleba.png" width="100%" alt="CHLEBA: opens ATR disk images under SpartaDOS X">
       </a>
     </td>
   </tr>
