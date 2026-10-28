@@ -2,6 +2,18 @@
 
 <table>
 
+  <!-- ATARI SNOOKER -->
+  <tr>
+    <td width="58%" valign="top">
+      <h3>ATARI SNOOKER</h3>
+      <p>Snooker for the Atari XL/XE — match, tournament and trick shots. 6502 assembly, needs VBXE.</p>
+      <p><sub>WIP</sub></p>
+    </td>
+    <td width="42%" valign="top">
+      <img src="assets/snooker.png" width="100%" alt="ATARI SNOOKER: title screen">
+    </td>
+  </tr>
+
   <!-- CHLEBA -->
   <tr>
     <td width="58%" valign="top">
